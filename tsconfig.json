@@ -15,5 +15,8 @@
     "outDir": "build",
     "declaration": true
   },
+  "include": [
+    "lib"
+  ],
   "exclude": ["node_modules"]
 }
