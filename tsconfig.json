@@ -1,7 +1,6 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-    "allowJs": true,
     "module": "commonjs",
     "removeComments": true,
     "target": "ES6",  
