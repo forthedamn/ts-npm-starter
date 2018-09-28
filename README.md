@@ -4,4 +4,10 @@ Boilerplate for npm package write in Typescript，simple&amp;efficient
 
 # Usage
 
-Clone this registry, and write npm package in typescript.
+- Clone this registry
+
+```
+rm -fr .git
+git init
+```
+- Write npm package in Typescript
