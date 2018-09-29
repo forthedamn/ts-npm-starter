@@ -10,6 +10,7 @@
     "comment-format": [true, "check-space"],
     "one-line": [true, "check-open-brace", "check-whitespace"],
     "triple-equals": [true, "allow-null-check"],
+    "arrow-parens":false,
     "typedef-whitespace": [
       true,
       {
